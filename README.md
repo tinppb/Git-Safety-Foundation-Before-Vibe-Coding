@@ -9,3 +9,7 @@ Dự án thực hành Git/GitHub nền tảng trước khi tham gia Vibe Coding.
 - Thao tác với command line
 - Sử dụng công cụ: Antigravity
 - Sử dụng công cụ: VS Code
+
+
+
+- Đang bị lỗi hệ thống
